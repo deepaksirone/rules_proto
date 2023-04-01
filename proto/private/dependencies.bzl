@@ -33,6 +33,7 @@ dependencies = {
         "build_file": "@com_google_protobuf//:third_party/zlib.BUILD",
         "strip_prefix": "zlib-1.2.11",
         "urls": [
+	    "https://mirror.bazel.build/zlib.net/zlib-1.2.12.tar.gz",
             "https://zlib.net/zlib-1.2.11.tar.gz",
         ],
     },
