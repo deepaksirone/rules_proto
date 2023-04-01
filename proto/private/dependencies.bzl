@@ -31,7 +31,7 @@ dependencies = {
     "zlib": {
         "sha256": "91844808532e5ce316b3c010929493c0244f3d37593afd6de04f71821d5136d9",
         "build_file": "@com_google_protobuf//:third_party/zlib.BUILD",
-        "strip_prefix": "zlib-1.2.11",
+        "strip_prefix": "zlib-1.2.12",
         "urls": [
 	    "https://mirror.bazel.build/zlib.net/zlib-1.2.12.tar.gz",
             #"https://zlib.net/zlib-1.2.11.tar.gz",
